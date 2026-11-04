@@ -1,0 +1,10 @@
+{
+  "name": "euro-daybook",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Personal daily spending log in euro, with day, week and month reports.",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.0"
+  }
+}
